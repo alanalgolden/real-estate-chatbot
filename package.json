@@ -9,6 +9,7 @@
   "author": "Alana Golden",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "twilio": "^4.14.1"
   }
 }
